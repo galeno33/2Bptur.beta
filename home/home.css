@@ -1,0 +1,20 @@
+body {}
+
+#carrossel {
+    width: 650px;
+    height: 330px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.carousel-item img {
+    margin: auto;
+    height: 750px;
+    width: 430px;
+    vertical-align: top;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}

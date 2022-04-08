@@ -1,0 +1,14 @@
+#area {
+    /*position: relative;*/
+    margin-left: 100px;
+    left: 37%;
+    top: 29%;
+    width: 320px;
+    height: 270px;
+}
+
+#area #formulario {
+    border-width: 1px;
+    position: absolute;
+    /*display: block;*/
+}
