@@ -59,7 +59,7 @@
                             while($row = mysqli_fetch_assoc($result)){
                                 //substituir
                                 $nome = $row['nome_completo'];
-                                $dia = $row['dia_mes'];
+                                $dia = $row['dia_mes']; 
                                 $hora = $row['hora'];
                                 $arquivo = $row['arquivos'];
                                 
