@@ -1,0 +1,16 @@
+#butãoModal {
+    border-radius: 50px;
+    padding: 1px 15px 3px 2px;
+    height: 60px;
+    border: none;
+    width: 60px;
+    text-align: center;
+}
+
+#divBut {
+    text-align: center;
+}
+
+#butãoBO {
+    border-radius: 40px;
+}
