@@ -97,7 +97,7 @@
                         </li>
                         
                         <li class="nav-item">
-                            <a class="nav-link" href="#">
+                            <a class="nav-link" href="../permulta/permulta.php">
                                 <span data-feather="file"></span> Permulta
                             </a>
                         </li>
@@ -105,6 +105,11 @@
                             <!--<a class="nav-link" href="https://bptur2.000webhostapp.com/audiência/audiencia.php">-->
                             <a class="nav-link" href="../audiencia/audiencias.php">
                                 <span data-feather="plus-square"></span> Audiência
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../boletimOcorrencia/formBoletim.php">
+                                <span data-feather="file"></span> Boletim de ocorrência
                             </a>
                         </li>
 
